@@ -1,0 +1,11 @@
+android:
+  platformName: Android
+  platformVersion: "13.0"
+  deviceName: Android Emulator
+  automationName: UiAutomator2
+  appPackage: com.android.settings
+  appActivity: .Settings
+  noReset: true
+
+appium:
+  server: http://localhost:4723
