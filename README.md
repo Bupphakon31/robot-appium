@@ -4,11 +4,14 @@
 python -m pip install -r requirements.txt
 ```
 
+> **Note:** `requirements.txt` now includes `appium-python-client` which is required by AppiumLibrary.
+
 (Alternatively install individually:)
 
 ```bash
 python -m pip install robotframework
 python -m pip install robotframework-appiumlibrary
+python -m pip install appium-python-client
 python -m pip install pyyaml
 ```
 
