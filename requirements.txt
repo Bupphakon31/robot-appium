@@ -1,4 +1,5 @@
 robotframework==7.0
 robotframework-appiumlibrary==2.0.0
-appium-python-client==3.8.0
+# latest available version; 5.2.6 works
+appium-python-client==5.2.6
 pyyaml==6.0.1

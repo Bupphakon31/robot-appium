@@ -4,7 +4,7 @@
 python -m pip install -r requirements.txt
 ```
 
-> **Note:** `requirements.txt` now includes `appium-python-client` (v5.2.6 or later) which is required by AppiumLibrary.
+> **Note:** `requirements.txt` now includes `appium-python-client` (e.g. version 5.2.6) which is required by AppiumLibrary.
 
 (Alternatively install individually:)
 
