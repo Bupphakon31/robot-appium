@@ -1,0 +1,6 @@
+login_page:
+  title: Login
+  description: Select a username and password from the list below, or click on the usernames to automatically populate the username and password.
+  username_label: Username
+  password_label: Password
+  login_button: Login

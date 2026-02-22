@@ -4,8 +4,8 @@
 python -m pip install -r requirements.txt
 ```
 
-> **Note:** `requirements.txt` now includes `appium-python-client` (e.g. version 5.2.6) which is required by AppiumLibrary.
-
+> **Note:** `requirements.txt` pins `robotframework-appiumlibrary==3.2.1` and `appium-python-client==5.2.6`.
+> These versions are compatible and include the `touch_action` module.
 (Alternatively install individually:)
 
 ```bash
